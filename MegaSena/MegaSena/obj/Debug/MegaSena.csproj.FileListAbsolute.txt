@@ -1,0 +1,13 @@
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+C:\Users\123437\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.exe.config
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.exe
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\bin\Debug\MegaSena.pdb
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.csprojResolveAssemblyReference.cache
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.csproj.CoreCompileInputs.cache
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.exe
+D:\OneDrive - Localiza\10o período\Mineração de Dados\Trabalho Prático 3\MegaSena\MegaSena\obj\Debug\MegaSena.pdb
